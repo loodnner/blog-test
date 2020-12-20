@@ -16,6 +16,13 @@
 
 (豆瓣)<https://douban.com>
 
+## 代码君
+
+```
+var name = looo
+var age = 26
+```
+
 ## 会的东西
 
 - 一丢丢html
